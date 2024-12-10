@@ -8,9 +8,9 @@ export default function SolutionCard({ type, isActive }) {
 
   // Defina os caminhos das imagens com base no tipo
   const imageSources = {
-    sportsbook: 'https://res2.weblium.site/res/660bbfdd8be79a000f6a5bc3/6630f031700d5d000e35881a_optimized',
-    whiteLabel: 'https://res2.weblium.site/res/660bbfdd8be79a000f6a5bc3/6630f04315a3a5000e86e94c_optimized',
-    turnKey: 'https://res2.weblium.site/res/660bbfdd8be79a000f6a5bc3/6630f087461e11000f6763c8_optimized',
+    sportsbook: 'sportsbook.png',
+    whiteLabel: 'white-label.png',
+    turnKey: 'turnkey.png',
   };
 
   return (

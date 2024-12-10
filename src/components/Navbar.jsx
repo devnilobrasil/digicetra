@@ -9,6 +9,7 @@ export default function Navbar() {
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
     setIsOpen(false); // Fecha o dropdown ao selecionar um idioma
+    document.documentElement.dir = lng === 'ar' ? 'rtl' : 'ltr'; // Define a direção
   };
 
   const getLanguageLabel = () => {
@@ -70,7 +71,7 @@ export default function Navbar() {
               </svg>
             </button>
             {isOpen && (
-              <div className="absolute right-0 mt-2 w-40 bg-gray-800 text-gray-200 rounded-lg shadow-lg border border-gray-700">
+              <div className="absolute right-0 mt-2 w-30 md:w-40 bg-gray-800 text-gray-200 rounded-lg shadow-lg border border-gray-700">
                 <button
                   onClick={() => changeLanguage('en')}
                   className="block w-full px-4 py-2 text-sm hover:bg-gray-700 hover:text-white rounded-t-lg"

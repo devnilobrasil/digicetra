@@ -10,7 +10,11 @@ export default {
         bluee: '#245ebc'
       },
       backgroundImage: {
-        'custom-gradient': 'linear-gradient(90deg, #2662c3, #ABF44E)'
+        'custom-gradient': 'linear-gradient(90deg, #2662c3, #ABF44E)',
+        'hero-image': "url('/bg-hero.png')", 
+        'solutions-image': "url('/bgbg.png')", 
+        'contact-image': "url('/contact.jpeg')", 
+
       }
     },
   },

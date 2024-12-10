@@ -9,8 +9,7 @@ import './index.css';
 
 function App() {
   return (
-    // <Router>
-    <Router basename='/devit/digicetra/digicetra2'> 
+    <Router basename="/devit/digicetra/digicetra2">
       <div className="min-h-screen bg-black">
         <Navbar />
         <Routes>
@@ -18,6 +17,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/solutions" element={<Solutions />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="*" element={<h1>404 - Page Not Found</h1>} /> {/* Rota Fallback */}
         </Routes>
       </div>
     </Router>

@@ -89,10 +89,10 @@ export default function About() {
 
       {/* Banner Section */}
       <div
-      className="relative bg-cover bg-center h-[60vh]"
-      style={{ backgroundImage: "url('banner_image.png')" }}
+      className="relative bg-cover bg-center h-[60vh] bg-contact-image"
+
     >
-      <div className="uppercase relative z-10 flex flex-col items-start justify-center h-full text-left text-white ml-5 md:ml-12">
+      <div className="uppercase relative z-10 flex flex-col items-start justify-center h-full text-left text-white mx-5 md:mx-12">
         <h1 className="text-4xl md:text-7xl font-bold w-10/12 md:w-full">{t('banner.title')}</h1>
         <Link
           to="/contact"
