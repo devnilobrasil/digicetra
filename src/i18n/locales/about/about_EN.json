@@ -1,0 +1,73 @@
+{
+ 
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "language": "Language"
+  },
+      "about": {
+        "title": "About Us",
+        "subtitle1": "The Tech",
+        "subtitle2": "Behind the Game",
+        "paragraph1": "Digicetra is a pioneering software development company specializing in innovative solutions for the iGaming industry. Our proprietary core platform and its advanced components deliver top-quality solutions tailored for modern gaming businesses.",
+        "paragraph2": "With versatile delivery options—including Sportsbook API integration, White Label, and Turnkey solutions—our platform adapts seamlessly to the dynamic demands of today's market.",
+        "paragraph3": "Powered by cutting-edge technology, we forge live connections between business ambitions and opportunities, linking operators with top-tier technology and players with unforgettable gaming moments. We thrive on challenges, excelling in peak traffic situations, and demonstrating our peak performance when it matters most.",
+        "paragraph4": "Join us as we explore the limitless potential of iGaming technology.",
+        "followUs": "Follow us:"
+      },
+      "connections": {
+        "title": "DIGICETRA CREATES LIVE CONNECTIONS TO THE WORLD OF IGAMING, BRIDGING:",
+        "item1": {
+          "title": "Business Ambitions with Opportunities",
+          "description": "Empowering your goals by unlocking new possibilities in the iGaming landscape."
+        },
+        "item2": {
+          "title": "Operators with Top-Tier Technology",
+          "description": "Connecting you to cutting-edge solutions that enhance operational efficiency and customer experience."
+        },
+        "item3": {
+          "title": "Players with Peak Game Moments",
+          "description": "Ensuring every player experiences thrilling gaming moments that keep them engaged and coming back for more."
+        }
+      },
+      "mission": {
+        "title": "Our Mission",
+        "highlight": "Explore",
+        "text": " the limitless potential of iGaming technology and push the boundaries of innovation."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "highlight": "Establish",
+        "text": " new standards and inspire revolutionary changes that redefine the possibilities within iGaming technology."
+      },
+      "values": {
+        "title": "Our Values",
+        "connect": {
+          "title": "CONNECT",
+          "description": "We foster open communication among employees, clients, and partners to inspire new ideas and facilitate knowledge sharing."
+        },
+        "evolve": {
+          "title": "EVOLVE",
+          "description": "We adapt to the ever-changing landscape of the iGaming industry, continuously enhancing our platform to stay relevant and innovative."
+        },
+        "deliver": {
+          "title": "DELIVER",
+          "description": "We commit to efficiency, ensuring our platform not only meets expectations but also drives scalable results for our clients."
+        }
+      },
+      "banner": {
+        "title": "the tech behind\nthe peak moments",
+        "contact": "Contact us"
+      },
+      "footer": {
+        "privacy": "PRIVACY / TERMS",
+        "sayHello": "SAY HELLO",
+        "socialMedia": "SOCIAL MEDIA",
+        "socialLinks": "INSTAGRAM / FACEBOOK / LINKEDIN / YOUTUBE",
+        "copyright": "Black Ocean B.V. Copyright © 2024 This website is owned and operated by Black Ocean B.V., a company registered and established under the laws of Curaçao, with the registered address of Franschebloemweg 4, Willemstad, Curaçao."
+      }
+    }
+  
+  

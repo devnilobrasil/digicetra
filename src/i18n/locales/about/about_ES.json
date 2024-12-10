@@ -1,0 +1,74 @@
+{
+
+  
+    "nav": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "solutions": "Soluciones",
+      "contact": "Contacto",
+      "language": "Idioma"
+    },
+      "about": {
+        "title": "Acerca de Nosotros",
+        "subtitle1": "La Tecnología",
+        "subtitle2": "Detrás del Juego",
+        "paragraph1": "Digicetra es una empresa pionera en desarrollo de software, especializada en soluciones innovadoras para la industria del iGaming. Nuestra plataforma principal y sus componentes avanzados ofrecen soluciones de máxima calidad diseñadas para satisfacer las necesidades de los negocios de juegos modernos.",
+        "paragraph2": "Con opciones de implementación versátiles, como integración de API de Sportsbook, White Label y soluciones llave en mano, nuestra plataforma se adapta sin esfuerzo a las demandas dinámicas del mercado actual.",
+        "paragraph3": "Impulsados por tecnología de vanguardia, creamos conexiones en tiempo real entre las ambiciones comerciales y las oportunidades, vinculando a los operadores con tecnología de primer nivel y a los jugadores con momentos inolvidables de juego. Nos destacamos en situaciones de tráfico elevado y mostramos nuestro mejor rendimiento cuando más se necesita.",
+        "paragraph4": "Únase a nosotros mientras exploramos el potencial ilimitado de la tecnología de iGaming.",
+        "followUs": "Síganos:"
+      },
+      "connections": {
+        "title": "DIGICETRA CREA CONEXIONES EN VIVO CON EL MUNDO DEL IGAMING, UNIENDO:",
+        "item1": {
+          "title": "Ambiciones comerciales con oportunidades",
+          "description": "Potenciamos sus objetivos desbloqueando nuevas posibilidades en el panorama del iGaming."
+        },
+        "item2": {
+          "title": "Operadores con tecnología de primer nivel",
+          "description": "Le conectamos con soluciones avanzadas que mejoran la eficiencia operativa y la experiencia del cliente."
+        },
+        "item3": {
+          "title": "Jugadores con momentos épicos de juego",
+          "description": "Garantizamos que cada jugador viva experiencias emocionantes que los mantengan comprometidos y regresando por más."
+        }
+      },
+      "mission": {
+        "title": "Nuestra Misión",
+        "highlight": "Explorar",
+        "text": " el potencial ilimitado de la tecnología de iGaming y superar los límites de la innovación."
+      },
+      "vision": {
+        "title": "Nuestra Visión",
+        "highlight": "Establecer",
+        "text": " nuevos estándares e inspirar cambios revolucionarios que redefinan las posibilidades dentro de la tecnología de iGaming."
+      },
+      "values": {
+        "title": "Nuestros Valores",
+        "connect": {
+          "title": "CONECTAR",
+          "description": "Fomentamos una comunicación abierta entre empleados, clientes y socios para inspirar nuevas ideas y facilitar el intercambio de conocimientos."
+        },
+        "evolve": {
+          "title": "EVOLUCIONAR",
+          "description": "Nos adaptamos al cambiante panorama de la industria del iGaming, mejorando continuamente nuestra plataforma para mantenernos relevantes e innovadores."
+        },
+        "deliver": {
+          "title": "CUMPLIR",
+          "description": "Nos comprometemos con la eficiencia, garantizando que nuestra plataforma no solo cumpla con las expectativas, sino que también genere resultados escalables para nuestros clientes."
+        }
+      },
+      "banner": {
+        "title": "LA TECNOLOGÍA DETRÁS DE\nLOS MOMENTOS ÉPICOS",
+        "contact": "Contáctenos"
+      },
+      "footer": {
+        "privacy": "PRIVACIDAD / TÉRMINOS",
+        "sayHello": "CONTÁCTENOS",
+        "socialMedia": "REDES SOCIALES",
+        "socialLinks": "INSTAGRAM / LINKEDIN",
+        "copyright": "Black Ocean B.V. Copyright © 2024 Este sitio web es propiedad y está operado por Black Ocean B.V., una empresa registrada y establecida bajo las leyes de Curazao, con domicilio registrado en Franschebloemweg 4, Willemstad, Curazao."
+      }
+    }
+  
+  

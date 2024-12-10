@@ -1,0 +1,129 @@
+{
+    "nav": {
+      "home": "首页",
+      "about": "关于我们",
+      "solutions": "解决方案",
+      "contact": "联系我们",
+      "language": "语言"
+    },
+    "hero": {
+      "dynamic": "动态",
+      "igaming": "IGAMING 平台"
+    },
+    "features": {
+      "trustworthy": {
+        "title": "可靠",
+        "desc": "与我们可靠的全球 iGaming 平台一起共同成长，旨在取得成功。"
+      },
+      "scalable": {
+        "title": "可扩展",
+        "desc": "随着业务的增长，轻松无忧地扩展您的业务。"
+      },
+      "customizable": {
+        "title": "可定制",
+        "desc": "根据市场和客户需求定制平台，提供完全的灵活性。"
+      },
+      "sustainable": {
+        "title": "可持续",
+        "desc": "通过设计用于长期韧性和效率的平台推动增长。"
+      },
+      "secure": {
+        "title": "安全",
+        "desc": "使用完全兼容且专注于安全的平台保护数据。"
+      },
+      "adaptive": {
+        "title": "适应性强",
+        "desc": "随着法规和技术需求的发展，保持领先地位，平台不断演进。"
+      }
+    },
+    "solutions": {
+      "mainTitle": "通过顶级技术推动运营商发展",
+      "subtitle": "我们的解决方案",
+      "learnMore": "更多信息",
+      "disclaimer": "*具体时间取决于所选选项和定制需求",
+      "sportsbook": {
+        "title": "体育博彩 API 集成",
+        "desc": "快速集成和配置我们的体育博彩 API，专为需要新体育博彩或希望改进现有体育博彩的聚合商、平台和 iGaming 运营商设计。",
+        "time": "实施时间： 6 - 10 天*"
+      },
+      "whiteLabel": {
+        "title": "白标解决方案",
+        "desc": "Digicetra 的白标解决方案为持牌运营商提供完整的优质产品套件，允许他们通过我们的平台轻松扩展业务。",
+        "time": "实施时间： 1 - 3 周*"
+      },
+      "turnkey": {
+        "title": "交钥匙解决方案",
+        "desc": "Digicetra“交钥匙”解决方案，为持牌运营商设计，提供完整的解决方案，包括体育博彩、赌场、虚拟体育、真人赌场、彩票投注和电视游戏。利用我们的完整套件，自信地扩展您的业务。",
+        "time": "实施时间： 3 - 6周*"
+      }
+    },
+    "tech": {
+      "title1": "游戏背后的",
+      "title2": "技术",
+      "subtitle": "准备好领先市场，超越竞争对手了吗？",
+      "contactButton": "联系我们"
+    },
+    "platform": {
+      "title": "DIGICETRA 平台",
+      "desc1": "Digicetra 是一款动态的 iGaming 平台，提供最新一代的 B2B 软件解决方案，在速度、可扩展性和可靠性方面超越传统平台。",
+      "desc2": "Digicetra 基于模块化和灵活的基础架构构建，能够快速适应市场和操作需求，帮助您从集中位置高效管理业务。享受简化的操作、自动化流程和便于控制的工具。",
+      "learnMore": "更多信息",
+      "cards": {
+        "sportsbook": {
+          "title": "体育博彩",
+          "desc": "轻松启动您的体育博彩：完美的解决方案，适合聚合商、平台和 iGaming 运营商。"
+        },
+        "casino": {
+          "title": "赌场",
+          "desc": "访问超过10,000款游戏，包括现场游戏、虚拟体育、彩票、巨额奖金、免费旋转和锦标赛，所有内容都汇聚于一个地方。"
+        },
+        "bonusEngine": {
+          "title": "奖金系统",
+          "desc": "创建和管理各种奖金和免费投注，具有超过150个可定制的活动参数。"
+        },
+        "paymentSystem": {
+          "title": "支付系统",
+          "desc": "选择250多种全球支付方式，包括加密货币，支持无缝资金管理和集成。"
+        },
+        "riskManagement": {
+          "title": "风险管理与反欺诈",
+          "desc": "通过快速识别和跟踪以及灵活的客户分类，将风险降到最低，提升安全性。"
+        },
+        "analytics": {
+          "title": "业务分析",
+          "desc": "通过基于 100 多项指标的自定义报告和高性能仪表板生成洞察。"
+        },
+        "retail": {
+          "title": "零售",
+          "desc": "通过个性化设计、多语言支持和先进的商业智能工具，集中管理大型零售网络。"
+        },
+        "crm": {
+          "title": "CRM",
+          "desc": "通过实时数据、200多个触发器和多渠道沟通，自动化营销，以实现最佳的客户参与度。"
+        },
+        "cms": {
+          "title": "CMS",
+          "desc": "利用强大且高效的工具，提升赌场操作和玩家体验。"
+        }
+      }
+    },
+    "business": {
+      "text1": "我们将您的",
+      "highlight": " 商业目标 ",
+      "text2": "与实际机会连接起来。"
+    },
+    "talk": {
+      "title": "准备好谈论成果了吗？",
+      "button": "今天就与我们联系。"
+    },
+    "footer": {
+      "company": "DIGICETRA 2024",
+      "terms": "隐私 / 条款",
+      "hello": "联系我们",
+      "email": "hello@Digicetra.com",
+      "social": "社交媒体",
+      "socialLinks": "INSTAGRAM / FACEBOOK / LINKEDIN / YOUTUBE",
+      "copyright": "Black Ocean B.V. Copyright © 2024 本网站由 Black Ocean B.V. 拥有和运营，该公司根据库拉索的法律注册并成立，注册地址为 Franschebloemweg 4, Willemstad, Curaçao。"
+    }
+  }
+  

@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "solutions": "Soluções",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "dynamic": "PLATAFORMA DINÂMICA",
+    "igaming": "DE IGAMING"
+  },
+  "features": {
+    "trustworthy": {
+      "title": "CONFIÁVEL",
+      "desc": "Crescemos juntos com uma plataforma global de iGaming confiável, projetada para o sucesso."
+    },
+    "scalable": {
+      "title": "ESCALÁVEL",
+      "desc": "Expanda o seu negócio sem esforço ou preocupações à medida que cresce."
+    },
+    "customizable": {
+      "title": "PERSONALIZÁVEL",
+      "desc": "Adapte a sua plataforma a qualquer mercado e necessidade do cliente, oferecendo total flexibilidade."
+    },
+    "sustainable": {
+      "title": "SUSTENTÁVEL",
+      "desc": "Impulsione o crescimento com uma plataforma projetada para resiliência e eficiência a longo prazo."
+    },
+    "secure": {
+      "title": "SEGURA",
+      "desc": "Proteja os dados com uma plataforma totalmente compatível e focada na segurança."
+    },
+    "adaptive": {
+      "title": "ADAPTÁVEL",
+      "desc": "Mantenha-se na vanguarda com uma plataforma que evolui de acordo com as regulamentações e as exigências tecnológicas."
+    }
+  },
+  "solutions": {
+    "mainTitle": "IMPULSIONANDO OPERADORES COM TECNOLOGIA DE PRIMEIRO NÍVEL",
+    "subtitle": "AS NOSSAS SOLUÇÕES",
+    "learnMore": "Mais informações",
+    "disclaimer": "*Dependendo das opções selecionadas e das necessidades de personalização",
+    "sportsbook": {
+      "title": "INTEGRAÇÃO DE API DE SPORTSBOOK",
+      "desc": "Integre e configure rapidamente a nossa API de Sportsbook, projetada para agregadores, plataformas e operadores de iGaming que necessitam de um novo Sportsbook ou querem melhorar um já existente.",
+      "time": "Tempo de implementação: 6 - 10 dias*"
+    },
+    "whiteLabel": {
+      "title": "WHITE LABEL",
+      "desc": "A solução White Label da Digicetra oferece aos operadores licenciados um conjunto completo de produtos premium, permitindo-lhes expandir facilmente o seu negócio com a nossa plataforma.",
+      "time": "Tempo de implementação: 1 - 3 semanas*"
+    },
+    "turnkey": {
+      "title": "LLAVE EM MÃO",
+      "desc": "A solução Turnkey da Digicetra, desenvolvida para operadores licenciados, oferece uma solução completa, incluindo Apostas Desportivas, Casino, Desportos Virtuais, Casino ao Vivo, Apostas em Loterias e Jogos de TV. Expanda o seu negócio com confiança utilizando a nossa suite de soluções.",
+      "time": "Tempo de implementação: 3 - 6 semanas*"
+    }
+  },
+  "tech": {
+    "title1": "A TECNOLOGIA",
+    "title2": "POR TRÁS DO JOGO",
+    "subtitle": "Pronto para liderar o mercado e superar a concorrência?",
+    "contactButton": "Contacte-nos"
+  },
+  "platform": {
+    "title": "PLATAFORMA DIGICETRA",
+    "desc1": "A Digicetra é uma plataforma dinâmica de iGaming que oferece soluções de software B2B de última geração, superando as plataformas tradicionais em termos de velocidade, escalabilidade e fiabilidade.",
+    "desc2": "Construída sobre uma base modular e flexível, a Digicetra adapta-se rapidamente às necessidades específicas do mercado e aos requisitos operacionais, permitindo-lhe gerir o seu negócio de forma eficiente a partir de uma localização centralizada. Beneficie de operações simplificadas, processos automatizados e ferramentas que facilitam o controlo total.",
+    "learnMore": "Mais informações",
+    "cards": {
+      "sportsbook": {
+        "title": "Sportsbook",
+        "desc": "Lance o seu Sportsbook com facilidade: uma solução ideal para agregadores, plataformas e operadores de iGaming."
+      },
+      "casino": {
+        "title": "Casino",
+        "desc": "Aceda a mais de 10.000 jogos, incluindo jogos ao vivo, desportos virtuais, lotarias, jackpots, giros grátis e torneios, tudo num único local."
+      },
+      "bonusEngine": {
+        "title": "Sistema de Bónus",
+        "desc": "Crie e gerencie diversos tipos de bónus e apostas gratuitas, com mais de 150 parâmetros de atividade personalizáveis."
+      },
+      "paymentSystem": {
+        "title": "Sistema de Pagamentos",
+        "desc": "Escolha entre mais de 250 métodos de pagamento globais, incluindo criptomoedas, com uma gestão de fundos integrada, sem complicações."
+      },
+      "riskManagement": {
+        "title": "Gestão de Riscos e Antifraude",
+        "desc": "Minimize os riscos com identificação e monitorização rápidas, além de uma categorização flexível de clientes para maior segurança."
+      },
+      "analytics": {
+        "title": "Análise de Negócios",
+        "desc": "Obtenha insights valiosos através de relatórios detalhados e análise de dados para melhorar a performance do seu negócio."
+      },
+      "retail": {
+        "title": "Retalho",
+        "desc": "Centralize a gestão de grandes redes de retalho com designs personalizados, suporte multilingue e ferramentas avançadas de BI."
+      },
+      "crm": {
+        "title": "CRM",
+        "desc": "Automatize o marketing com dados em tempo real, mais de 200 gatilhos e comunicação multicanal para garantir um compromisso ideal."
+      },
+      "cms": {
+        "title": "CMS",
+        "desc": "Melhore as operações do casino e a experiência dos jogadores com ferramentas sólidas e de alto desempenho."
+      }
+    }
+  },
+  "business": {
+    "text1": "Criamos uma conexão entre os seus",
+    "highlight": " objetivos comerciais ",
+    "text2": "e oportunidades reais."
+  },
+  "talk": {
+    "title": "PRONTO PARA FALAR DE RESULTADOS?",
+    "button": "Conecte-se connosco hoje. Contacte-nos"
+  },
+  "footer": {
+    "company": "DIGICETRA 2024",
+    "terms": "PRIVACIDADE / TERMOS",
+    "hello": "DIGA OLÁ",
+    "email": "hello@Digicetra.com",
+    "social": "REDES SOCIAIS",
+    "socialLinks": "INSTAGRAM / FACEBOOK / LINKEDIN / YOUTUBE",
+    "copyright": "Direitos de Autor © 2024. Propriedade de Black Ocean B.V., registrada sob as leis de Curaçao."
+  }
+}

@@ -1,0 +1,71 @@
+{
+    "nav": {
+      "home": "首页",
+      "about": "关于我们",
+      "solutions": "解决方案",
+      "contact": "联系我们",
+      "language": "语言"
+    },
+    "about": {
+      "title": "关于我们",
+      "subtitle1": "游戏背后的",
+      "subtitle2": "技术",
+      "paragraph1": "Digicetra 是一家领先的软件开发公司，专注于为 iGaming 行业提供创新解决方案。我们的主平台及其先进组件提供最高质量的解决方案，旨在满足现代游戏业务的需求。",
+      "paragraph2": "凭借多种实施选项，如体育书 API 集成、白标解决方案和交钥匙解决方案，我们的平台轻松适应当前市场的动态需求。",
+      "paragraph3": "我们凭借尖端技术，在实时连接商业雄心与机会之间，链接运营商与顶级技术，玩家与难忘的游戏时刻。当流量激增时，我们表现出色，并在最需要时展现最佳表现。",
+      "paragraph4": "加入我们，一同探索 iGaming 技术的无限潜力。",
+      "followUs": "关注我们:"
+    },
+    "connections": {
+      "title": "DIGICETRA 在 iGaming 世界中创造实时连接，连接：",
+      "item1": {
+        "title": "商业雄心与机会",
+        "description": "我们通过解锁 iGaming 领域的新机遇，帮助您实现目标。"
+      },
+      "item2": {
+        "title": "运营商与顶级技术",
+        "description": "我们为您提供先进的解决方案，提升运营效率和客户体验。"
+      },
+      "item3": {
+        "title": "玩家与史诗般的游戏时刻",
+        "description": "我们确保每一位玩家都能体验到激动人心的时刻，使他们保持投入并不断回归。"
+      }
+    },
+    "mission": {
+      "title": "我们的使命",
+      "highlight": "探索",
+      "text": " iGaming 技术的无限潜力，超越创新的边界。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "highlight": "建立",
+      "text": " 新的标准，激发革命性变革，重新定义 iGaming 技术中的可能性。"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "connect": {
+        "title": "连接",
+        "description": "我们促进员工、客户和合作伙伴之间的开放沟通，激发新思路，促进知识的交流。"
+      },
+      "evolve": {
+        "title": "进化",
+        "description": "我们适应不断变化的 iGaming 行业格局，持续改进我们的平台，以保持相关性和创新性。"
+      },
+      "deliver": {
+        "title": "履行承诺",
+        "description": "我们致力于效率，确保我们的平台不仅能满足期望，还能为客户带来可扩展的成果。"
+      }
+    },
+    "banner": {
+      "title": "史诗时刻背后的\n技术",
+      "contact": "联系我们"
+    },
+    "footer": {
+      "privacy": "隐私 / 条款",
+      "sayHello": "联系我们",
+      "socialMedia": "社交媒体",
+      "socialLinks": "INSTAGRAM / FACEBOOK / LINKEDIN / YOUTUBE",
+      "copyright": "Black Ocean B.V. Copyright © 2024 本网站由 Black Ocean B.V. 拥有和运营，该公司根据库拉索的法律注册并成立，注册地址为 Franschebloemweg 4, Willemstad, Curaçao。"
+    }
+  }
+  

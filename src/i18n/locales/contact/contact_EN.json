@@ -1,0 +1,34 @@
+{
+    "contact": {
+      "title": "Contact Us",
+      "form": {
+        "fullName": "Full Name*",
+        "fullNamePlaceholder": "Enter your full name",
+        "region": "Region*",
+        "regionPlaceholder": "Select your region",
+        "regions": {
+          "northAmerica": "North America",
+          "europe": "Europe",
+          "asia": "Asia",
+          "southAmerica": "South America",
+          "australia": "Australia",
+          "africa": "Africa"
+        },
+        "company": "Company*",
+        "companyPlaceholder": "Enter your company name",
+        "phoneNumber": "Phone Number*",
+        "phoneNumberPlaceholder": "Enter your phone number",
+        "email": "Email*",
+        "emailPlaceholder": "Enter your email address",
+        "request": "Request",
+        "requestPlaceholder": "Write your request here",
+        "submit": "Send"
+      },
+      "modal": {
+        "title": "Thank You!",
+        "message": "Your message has been sent successfully.",
+        "close": "Close"
+      }
+    }
+  }
+  

@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "solutions": "Soluções",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "subtitle1": "A Tecnologia",
+    "subtitle2": "Por Trás do Jogo",
+    "paragraph1": "A Digicetra é uma empresa pioneira no desenvolvimento de software, especializada em soluções inovadoras para a indústria do iGaming. A nossa plataforma principal e os seus componentes avançados oferecem soluções da mais alta qualidade, concebidas para satisfazer as necessidades dos negócios de jogos modernos.",
+    "paragraph2": "Com opções de implementação versáteis, como integração de API de Sportsbook, White Label e soluções Turnkey, a nossa plataforma adapta-se sem esforço às exigências dinâmicas do mercado atual.",
+    "paragraph3": "Impulsionados por tecnologia de ponta, estabelecemos ligações em tempo real entre as ambições comerciais e as oportunidades, conectando operadores às melhores soluções tecnológicas e proporcionando aos jogadores experiências de jogo inesquecíveis. Destacamo-nos pela nossa capacidade de gerir picos de tráfego, oferecendo desempenho excepcional nos momentos de maior exigência.",
+    "paragraph4": "Junte-se a nós enquanto exploramos o potencial ilimitado da tecnologia de iGaming.",
+    "followUs": "Siga-nos:"
+  },
+  "connections": {
+    "title": "A DIGICETRA CRIA CONEXÕES AO VIVO COM O MUNDO DO IGAMING, UNINDO:",
+    "item1": {
+      "title": "Ambições comerciais com oportunidades",
+      "description": "Potenciamos os seus objetivos, desbloqueando novas possibilidades no panorama do iGaming."
+    },
+    "item2": {
+      "title": "Operadores com tecnologia de topo",
+      "description": "Conectamo-lo com soluções avançadas que melhoram a eficiência operacional e a experiência do cliente."
+    },
+    "item3": {
+      "title": "Jogadores com momentos épicos de jogo",
+      "description": "Asseguramos que cada jogador tenha experiências emocionantes que os cativem, mantendo-os comprometidos e ansiosos por voltar a jogar."
+    }
+  },
+  "mission": {
+    "title": "A Nossa Missão",
+    "highlight": "Explorar",
+    "text": " o potencial ilimitado da tecnologia de iGaming e ultrapassar os limites da inovação."
+  },
+  "vision": {
+    "title": "A Nossa Visão",
+    "highlight": "Estabelecer",
+    "text": " novos padrões e inspirar mudanças revolucionárias que redefinam as possibilidades dentro da tecnologia de iGaming."
+  },
+  "values": {
+    "title": "Os Nossos Valores",
+    "connect": {
+      "title": "COMUNICAÇÃO",
+      "description": "Fomentamos uma comunicação aberta entre colaboradores, clientes e parceiros para inspirar novas ideias e facilitar a troca de conhecimentos."
+    },
+    "evolve": {
+      "title": "EVOLUÇÃO",
+      "description": "Adaptamo-nos ao panorama em constante mudança da indústria do iGaming, melhorando continuamente a nossa plataforma para nos mantermos relevantes e inovadores."
+    },
+    "deliver": {
+      "title": "COMPROMISSO",
+      "description": "Comprometemo-nos com a eficiência, garantindo que a nossa plataforma não só supere as expectativas, mas também ofereça resultados escaláveis que acelerem o crescimento e o sucesso dos nossos clientes."
+    }
+  },
+  "banner": {
+    "title": "A TECNOLOGIA POR TRÁS DOS\nMOMENTOS ÉPICOS",
+    "contact": "Contacte-nos"
+  },
+  "footer": {
+    "privacy": "PRIVACIDADE / TERMOS",
+    "sayHello": "CONTACTE-NOS",
+    "socialMedia": "REDES SOCIAIS",
+    "socialLinks": "INSTAGRAM / LINKEDIN",
+    "copyright": "DIGICETRA 2024 | Este website é propriedade e é operado pela Black Ocean B.V., uma empresa registrada e estabelecida sob as leis de Curaçao, com endereço registrado em Franschebloemweg 4, Willemstad, Curaçao."
+  }
+}

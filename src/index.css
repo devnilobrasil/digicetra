@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link {
+  @apply text-white font-bold uppercase px-3 py-2 rounded-md text-sm hover:text-[#2662c3] transition-colors;
+}
+
+.border-gradient {
+  @apply bg-white border-8 border-solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to top, #AAF34F, #67A98A, #2662C2);
+}

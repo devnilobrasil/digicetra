@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "solutions": "Soluciones",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "solutionsPage": {
+    "mainTitle": "Soluciones",
+    "menu": {
+      "sportsbook": "Integración de API de Sportsbook",
+      "whiteLabel": "White Label",
+      "turnKey": "Llave en Mano"
+    },
+    "timeToMarket": "Tiempo de implementación:",
+    "includes": "Incluye:",
+    "hideDetails": "Ocultar detalles",
+    "cards": {
+      "sportsbook": {
+        "title": "INTEGRACIÓN DE API DE SPORTSBOOK",
+        "description": "Nuestra integración mediante iframe ofrece una solución rápida y eficiente para agregadores de iGaming, plataformas y operadores que necesiten un Sportsbook o deseen mejorar uno ya existente. Con la integración de iframe de Digicetra, puede configurar y lanzar su Sportsbook sin complicaciones.",
+        "time": "2 a 10 días",
+        "features": {
+          "firstFeature": "Operaciones completamente automatizadas para una gestión sin esfuerzo",
+          "secondFeature": "Integración multiproveedor para una flexibilidad óptima",
+          "thirdFeature": "Principales opciones de apuestas que satisfacen los intereses diversos de los clientes",
+          "fourthFeature": "Personalización completa de todas las configuraciones para un branding único"
+        },
+        "learnMore": "Obtenga información completa sobre la integración de API de Sportsbook"
+      },
+      "whiteLabel": {
+        "title": "WHITE LABEL",
+        "description": "La solución White Label de Digicetra ofrece una plataforma de Sportsbook completamente personalizable y lista para lanzar, ideal para marcas que buscan ingresar rápidamente al mercado de iGaming sin las complejidades del desarrollo técnico.",
+        "time": "1 a 3 semanas",
+        "features": {
+          "firstFeature": "Plataforma personalizable adaptada a su marca",
+          "secondFeature": "Entrada rápida al mercado con una configuración mínima",
+          "thirdFeature": "Amplia gama de integraciones para funcionalidad extensa",
+          "fourthFeature": "Arquitectura escalable que crece con las necesidades de su negocio"
+        },
+        "learnMore": "Obtenga información completa sobre White Label"
+      },
+      "turnKey": {
+        "title": "LLAVE EN MANO",
+        "description": "Nuestra solución Llave en Mano es una plataforma de Sportsbook completamente gestionada que guía a las marcas desde la configuración hasta las operaciones diarias, con soporte integral para facilitar una entrada exitosa al mercado.",
+        "time": "3 a 6 semanas",
+        "features": {
+          "firstFeature": "Servicio completamente gestionado con un esfuerzo mínimo de su parte",
+          "secondFeature": "Soporte operativo para simplificar la gestión diaria",
+          "thirdFeature": "Plataforma de alto rendimiento que garantiza eficiencia y fiabilidad máximas",
+          "fourthFeature": "Solución integral que proporciona todo lo que su marca necesita"
+        },
+        "learnMore": "Obtenga información completa sobre Llave en Mano"
+      }
+    }
+  },
+  "footer": {
+    "privacy": "PRIVACIDAD / TÉRMINOS",
+    "sayHello": "CONTÁCTENOS",
+    "socialMedia": "REDES SOCIALES",
+    "socialLinks": "INSTAGRAM / LINKEDIN",
+    "copyright": "Black Ocean B.V. Copyright © 2024 Este sitio web es propiedad y está operado por Black Ocean B.V., una empresa registrada y establecida bajo las leyes de Curazao, con domicilio registrado en Franschebloemweg 4, Willemstad, Curazao."
+  }
+}

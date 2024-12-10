@@ -1,0 +1,34 @@
+{
+    "contact": {
+      "title": "联系我们",
+      "form": {
+        "fullName": "全名*",
+        "fullNamePlaceholder": "请输入您的全名",
+        "region": "地区*",
+        "regionPlaceholder": "选择您的地区",
+        "regions": {
+          "northAmerica": "北美",
+          "europe": "欧洲",
+          "asia": "亚洲",
+          "southAmerica": "南美",
+          "australia": "澳大利亚",
+          "africa": "非洲"
+        },
+        "company": "公司*",
+        "companyPlaceholder": "请输入您的公司名称",
+        "phoneNumber": "电话号码*",
+        "phoneNumberPlaceholder": "请输入您的电话号码",
+        "email": "电子邮件*",
+        "emailPlaceholder": "请输入您的电子邮件地址",
+        "request": "请求",
+        "requestPlaceholder": "请在此处写下您的请求",
+        "submit": "发送"
+      },
+      "modal": {
+        "title": "感谢您！",
+        "message": "您的信息已成功发送。",
+        "close": "关闭"
+      }
+    }
+  }
+  

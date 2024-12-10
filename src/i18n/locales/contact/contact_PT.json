@@ -1,0 +1,40 @@
+{
+  "contact": {
+    "title": "Contacto",
+    "form": {
+      "fullName": "Nome Completo*",
+      "fullNamePlaceholder": "João Silva",
+      "region": "Região*",
+      "regionPlaceholder": "Escolha a sua região",
+      "regions": {
+        "northAmerica": "América do Norte",
+        "europe": "Europa",
+        "asia": "Ásia",
+        "southAmerica": "América do Sul",
+        "australia": "Austrália",
+        "africa": "África"
+      },
+      "company": "Empresa*",
+      "companyPlaceholder": "Nome da Empresa",
+      "phoneNumber": "Número de Telefone*",
+      "phoneNumberPlaceholder": "0 123 45 67",
+      "email": "E-mail*",
+      "emailPlaceholder": "exemplo@mail.com",
+      "request": "Pedido",
+      "requestPlaceholder": "Por favor, escreva o seu pedido aqui",
+      "submit": "Enviar"
+    },
+    "modal": {
+      "title": "Obrigado!",
+      "message": "A sua mensagem foi enviada com sucesso.",
+      "close": "Fechar"
+    }
+  },
+  "footer": {
+    "privacy": "PRIVACIDADE / TERMOS",
+    "sayHello": "CONTACTE-NOS",
+    "socialMedia": "REDES SOCIAIS",
+    "socialLinks": "INSTAGRAM || LINKEDIN",
+    "copyright": "DIGICETRA 2024. Este website é propriedade e operado pela Black Ocean B.V., registrada sob as leis de Curaçao."
+  }
+}

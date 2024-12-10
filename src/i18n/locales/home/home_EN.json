@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "dynamic": "DYNAMIC",
+    "igaming": "IGAMING PLATFORM"
+  },
+  "features": {
+    "trustworthy": {
+      "title": "TRUSTWORTHY",
+      "desc": "Grow with a globally trusted iGaming platform built for success."
+    },
+    "scalable": {
+      "title": "SCALABLE",
+      "desc": "Expand effortlessly and confidently as your business grows."
+    },
+    "customizable": {
+      "title": "CUSTOMIZABLE",
+      "desc": "Tailor your platform to any market and customer needs for ultimate flexibility."
+    },
+    "sustainable": {
+      "title": "SUSTAINABLE",
+      "desc": "Drive growth with a platform designed for long-term resilience and efficiency."
+    },
+    "secure": {
+      "title": "SECURE",
+      "desc": "Safeguard data with a fully compliant, security-first platform."
+    },
+    "adaptive": {
+      "title": "ADAPTIVE",
+      "desc": "Stay ahead with a platform that evolves with regulations and tech demands."
+    }
+  },
+  "solutions": {
+    "mainTitle": "Fueling operators with premium tech power",
+    "subtitle": "OUR SOLUTIONS",
+    "learnMore": "Learn more",
+    "disclaimer": "*Depending on selected options and customization needs",
+    "sportsbook": {
+      "title": "SPORTSBOOK API INTEGRATION",
+      "desc": "Quickly integrate and configure our Sportsbook API, designed for iGaming aggregators, platforms, and operators who need a new Sportsbook or wish to enhance an existing one.",
+      "time": "Time to market: 6 - 10 days*"
+    },
+    "whiteLabel": {
+      "title": "WHITE LABEL",
+      "desc": "Digicetra's White Label solution provides licensed operators with a complete suite of premium products, allowing you to expand your business effortlessly with our platform.",
+      "time": "Time to market: 1 - 3 weeks*"
+    },
+    "turnkey": {
+      "title": "TURNKEY",
+      "desc": "Digicetra's Turnkey solution, designed for licensed operators, includes everything: Sportsbook, Casino, Virtual Sports, Live Casino, Lottery betting, and TV Games. Scale confidently with our comprehensive suite.",
+      "time": "Time to market: 3 - 6 weeks*"
+    }
+  },
+  "tech": {
+    "title1": "THE TECH",
+    "title2": "BEHIND THE GAME",
+    "subtitle": "Ready to lead the game and outpace the competition?",
+    "contactButton": "Contact us"
+  },
+  "platform": {
+    "title": "DIGICETRA PLATFORM",
+    "desc1": "Digicetra is a dynamic iGaming platform delivering cutting-edge B2B software solutions designed to surpass traditional platforms in speed, scalability, and reliability.",
+    "desc2": "Built on a flexible, modular foundation, Digicetra adapts swiftly to meet unique market and operational needs, empowering you to manage your business efficiently from a single, centralized location. Enjoy streamlined operations, automated processes, and tools that make oversight effortless.",
+    "learnMore": "Learn more",
+    "cards": {
+      "sportsbook": {
+        "title": "Sportsbook",
+        "desc": "Launch your sportsbook with ease—a perfect fit for iGaming aggregators, platforms, and operators."
+      },
+      "casino": {
+        "title": "Casino",
+        "desc": "Access over 10,000 games, including live games, virtual sports, lotteries, jackpots, free spins, and tournaments—all in one hub."
+      },
+      "bonusEngine": {
+        "title": "Bonus Engine",
+        "desc": "Effortlessly create and manage diverse bonuses and free bets with 150+ customizable activity parameters."
+      },
+      "paymentSystem": {
+        "title": "Payment System",
+        "desc": "Choose from 250+ global payment methods, including crypto, with seamless fund management and integration."
+      },
+      "riskManagement": {
+        "title": "Risk Management & Anti-fraud",
+        "desc": "Minimize risks with rapid identification and tracking, plus flexible customer categorization for enhanced security."
+      },
+      "analytics": {
+        "title": "Business Analytics",
+        "desc": "Build insights with customizable reports across 100+ metrics, enhanced by high-performance dashboards."
+      },
+      "retail": {
+        "title": "Retail",
+        "desc": "Centralize large retail network management with tailored layouts, multilingual support, and advanced BI tools."
+      },
+      "crm": {
+        "title": "CRM",
+        "desc": "Automate marketing with real-time data, 200+ triggers, and multichannel communication for optimal engagement."
+      },
+      "cms": {
+        "title": "CMS",
+        "desc": "Boost casino operations and player experience with robust, performance-enhancing tools."
+      }
+    }
+  },
+  "business": {
+    "text1": "We forge a live connection between your",
+    "highlight": " business ambitions ",
+    "text2": "and real opportunities."
+  },
+  "talk": {
+    "title": "READY TO TALK RESULTS?",
+    "button": "Let's connect. Contact us today."
+  },
+  "footer": {
+    "company": "DIGICETRA 2024",
+    "terms": "PRIVACY / TERMS",
+    "hello": "SAY HELLO",
+    "email": "hello@Digicetra.com",
+    "social": "SOCIAL MEDIA",
+    "socialLinks": "INSTAGRAM / FACEBOOK / LINKEDIN / YOUTUBE",
+    "copyright": "Black Ocean B.V. Copyright © 2024 This website is owned and operated by Black Ocean B.V., a company registered and established under the laws of Curaçao, with the registered address of Franschebloemweg 4, Willemstad, Curaçao."
+  }
+}

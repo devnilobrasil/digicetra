@@ -1,0 +1,66 @@
+{
+    "nav": {
+      "home": "首页",
+      "about": "关于我们",
+      "solutions": "解决方案",
+      "contact": "联系我们",
+      "language": "语言"
+    },
+    "solutionsPage": {
+      "mainTitle": "解决方案",
+      "menu": {
+        "sportsbook": "Sportsbook API 集成",
+        "whiteLabel": "白标",
+        "turnKey": "交钥匙"
+      },
+      "timeToMarket": "实施时间：",
+      "includes": "包括：",
+      "hideDetails": "隐藏详细信息",
+      "cards": {
+        "sportsbook": {
+          "title": "SPORTSBOOK API 集成",
+          "description": "我们的 iframe 集成提供了一个快速高效的解决方案，适用于需要 Sportsbook 或希望改善现有 Sportsbook 的 iGaming 聚合商、平台和运营商。通过 Digicetra 的 iframe 集成，您可以轻松配置和启动您的 Sportsbook。",
+          "time": "2 到 10 天",
+          "features": {
+            "firstFeature": "完全自动化的操作，轻松管理。",
+            "secondFeature": "多供应商集成，实现最佳灵活性。",
+            "thirdFeature": "满足客户多样化兴趣的主要投注选项。",
+            "fourthFeature": "完全定制所有设置，实现独特的品牌化。"
+          },
+          "learnMore": "获取有关 Sportsbook API 集成的完整信息"
+        },
+        "whiteLabel": {
+          "title": "白标",
+          "description": "Digicetra 的白标解决方案提供一个完全可定制并准备好推出的 Sportsbook 平台，非常适合希望快速进入 iGaming 市场的品牌，无需复杂的技术开发。",
+          "time": "1 到 3 周",
+          "features": {
+            "firstFeature": "可定制的平台，适应您的品牌。",
+            "secondFeature": "通过最少配置快速进入市场。",
+            "thirdFeature": "丰富的集成功能，提供广泛的功能。",
+            "fourthFeature": "可扩展的架构，随着业务需求的增长而扩展。"
+          },
+          "learnMore": "获取有关白标的完整信息"
+        },
+        "turnKey": {
+          "title": "交钥匙解决方案",
+          "description": "我们的交钥匙解决方案是一款完全托管的 Sportsbook 平台，能够从设置到日常运营为品牌提供指导，并提供全面支持，帮助顺利进入市场。",
+          "time": "3 到 6 周",
+          "features": {
+            "firstFeature": "完全托管服务，您的工作量最小化。",
+            "secondFeature": "运营支持，简化日常管理。",
+            "thirdFeature": "高性能平台，确保最大效率和可靠性。",
+            "fourthFeature": "综合解决方案，提供品牌所需的一切。"
+          },
+          "learnMore": "获取有关交钥匙解决方案的完整信息"
+        }
+      }
+    },
+    "footer": {
+      "privacy": "隐私 / 条款",
+      "sayHello": "联系我们",
+      "socialMedia": "社交媒体",
+      "socialLinks": "INSTAGRAM / LINKEDIN",
+      "copyright": "Black Ocean B.V. Copyright © 2024 本网站由 Black Ocean B.V. 拥有和运营，该公司根据库拉索的法律注册并成立，注册地址为 Franschebloemweg 4, Willemstad, Curaçao。"
+    }
+  }
+  

@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "solutions": "Soluções",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "solutionsPage": {
+    "mainTitle": "Soluções",
+    "menu": {
+      "sportsbook": "Integração de API de Sportsbook",
+      "whiteLabel": "White Label",
+      "turnKey": "Turnkey"
+    },
+    "timeToMarket": "Tempo de implementação:",
+    "includes": "Inclui:",
+    "hideDetails": "Ocultar Detalhes",
+    "cards": {
+      "sportsbook": {
+        "title": "INTEGRAÇÃO DE API DE SPORTSBOOK",
+        "description": "A nossa integração através de iframe oferece uma solução rápida e eficiente para agregadores de iGaming, plataformas e operadores que necessitam de um Sportsbook ou queiram melhorar um já existente. Com a integração de iframe da Digicetra, pode configurar e lançar o seu Sportsbook sem complicações.",
+        "time": "de 2 a 10 dias",
+        "features": {
+          "firstFeature": "Operações totalmente automatizadas para uma gestão sem esforço.",
+          "secondFeature": "Integração multi-fornecedor para uma flexibilidade otimizada.",
+          "thirdFeature": "Principais opções de apostas que atendem aos diversos interesses dos clientes.",
+          "fourthFeature": "Personalização completa de todas as configurações para um branding único."
+        },
+        "learnMore": "Obtenha informações completas sobre a integração da API de Sportsbook."
+      },
+      "whiteLabel": {
+        "title": "WHITE LABEL",
+        "description": "A solução White Label da Digicetra oferece uma plataforma de Sportsbook completamente personalizável e pronta para lançar, ideal para marcas que procuram entrar rapidamente no mercado de iGaming, sem as complexidades do desenvolvimento técnico.",
+        "time": "de 1 a 3 semanas",
+        "features": {
+          "firstFeature": "Plataforma personalizável adaptada à sua marca.",
+          "secondFeature": "Entrada rápida no mercado com uma configuração mínima.",
+          "thirdFeature": "Ampla gama de integrações para funcionalidades extensivas.",
+          "fourthFeature": "Arquitetura escalável que cresce com as necessidades do seu negócio."
+        },
+        "learnMore": "Obtenha informações completas sobre White Label."
+      },
+      "turnKey": {
+        "title": "TURNKEY",
+        "description": "A nossa solução Turnkey é uma plataforma de Sportsbook totalmente gerida, que orienta as marcas desde a configuração até às operações diárias, com suporte integral para facilitar uma entrada bem-sucedida no mercado.",
+        "time": "de 3 a 6 semanas",
+        "features": {
+          "firstFeature": "Serviço totalmente gerido com mínimo esforço da sua parte.",
+          "secondFeature": "Suporte operacional para simplificar a gestão diária.",
+          "thirdFeature": "Plataforma de alto desempenho que garante máxima eficiência e fiabilidade.",
+          "fourthFeature": "Solução completa que fornece tudo o que a sua marca necessita."
+        },
+        "learnMore": "Obtenha informações completas sobre a solução Turnkey."
+      }
+    }
+  },
+  "footer": {
+    "privacy": "PRIVACIDADE / TERMOS",
+    "sayHello": "CONTACTE-NOS",
+    "socialMedia": "REDES SOCIAIS",
+    "socialLinks": "INSTAGRAM / LINKEDIN",
+    "copyright": "DIGICETRA 2024. Direitos Autorais © 2024. Este website é propriedade e operado pela Black Ocean B.V., registrada sob as leis de Curaçao."
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "contact": {
+      "title": "اتصل بنا",
+      "form": {
+        "fullName": "الاسم الكامل*",
+        "fullNamePlaceholder": "أدخل اسمك الكامل",
+        "region": "المنطقة*",
+        "regionPlaceholder": "اختر منطقتك",
+        "regions": {
+          "northAmerica": "أمريكا الشمالية",
+          "europe": "أوروبا",
+          "asia": "آسيا",
+          "southAmerica": "أمريكا الجنوبية",
+          "australia": "أستراليا",
+          "africa": "أفريقيا"
+        },
+        "company": "الشركة*",
+        "companyPlaceholder": "أدخل اسم شركتك",
+        "phoneNumber": "رقم الهاتف*",
+        "phoneNumberPlaceholder": "أدخل رقم هاتفك",
+        "email": "البريد الإلكتروني*",
+        "emailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+        "request": "الطلب",
+        "requestPlaceholder": "يرجى كتابة طلبك هنا",
+        "submit": "إرسال"
+      },
+      "modal": {
+        "title": "شكراً لك!",
+        "message": "تم إرسال رسالتك بنجاح.",
+        "close": "إغلاق"
+      }
+    }
+  }
+  
